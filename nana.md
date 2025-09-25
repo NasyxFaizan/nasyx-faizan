@@ -29,7 +29,7 @@ Hi, I 'm Nasyx Faizan - a software engineer based in Srinagar, Jummu and Kashmir
 
 ## 📫 Get In Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nasyx-faizan-44296936a?utm_source=share&utm_compaign=share via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nasyx-faizan-44296936a?utm_source=share&utm_compaign=share)
 - 📧 [Email](mailto:fdar5593@gmail.com)
 - 🌍 [Portfolio](https://lp-seven-psi.vercel.app/)
 
