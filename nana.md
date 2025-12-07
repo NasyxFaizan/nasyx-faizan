@@ -2,9 +2,7 @@
 
 Hi, I 'm Nasyx Faizan - a software engineer based in Srinagar, Jummu and Kashmir.I specialize in Crafting innovative digital solutions with technology like React, Node.Js,Next.Js, React.Native
 
-🔹 2+ years freelancing on Upwork with 100% job success score  
-🔹 50+ projects delivered, 5⭐ ratings  
-🔹 B.Tech cse student
+🔹 B.Tech in computer science engineering
 
 ---
 
